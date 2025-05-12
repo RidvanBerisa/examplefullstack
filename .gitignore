@@ -1,17 +1,21 @@
 /.idea/
 *.iml
 
-#Backend
 
+#Backend
 /backend/.idea/
 /backend/*.iml
 /backend/.mvn/
 /backend/mvnw
 /backend/mvnw.cmd
+/backend/HELP.md
+/backend/target/
+/backend/!.mvn/wrapper/maven-wrapper.jar
+/backend/!**/src/main/**/target/
+/backend/!**/src/test/**/target/
 
 
 #FrontEnd
-
 /frontend/node_modules/
 /frontend/dist/
 /frontend/dist-ssr/
